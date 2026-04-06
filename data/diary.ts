@@ -19,6 +19,12 @@ const diaryData: DiaryItem[] = [
     date: "2026-04-05T18:27:00Z",
     images: ["/images/posts/00000001.png"],
   },
+  {
+    id: 2,
+    content: "画了这么久的画终于舍得画素描了苦呀西（有点像豆腐块）",
+    date: "2026-04-06T10:52:00Z",
+    images: ["/images/posts/00000002.png"],
+  },
 ];
 
 // 获取日记列表（按时间倒序）
