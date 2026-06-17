@@ -11,7 +11,7 @@ author: "Sukabing"
 
 # 查询类
 
-- [LFO查看sync和freq的对等值](https://bchillmix.com/pages/lfo-rate-calculator)
+- [LFO查看sync和freq的对等值]("https://bchillmix.com/pages/lfo-rate-calculator")
 
 # 资源获取类
 
