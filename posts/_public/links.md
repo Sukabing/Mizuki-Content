@@ -66,6 +66,8 @@ author: "Sukabing"
 - [Ableton Live主题站](https://livethemes.app/)
 - [C站](https://civitai.com/)
 - [C站（red）](https://civitai.red/)
+- [Alletis~1.EXE](https://alletis.com/)
+  > 该站点为Alletis的个人站点
 
 # 群友笔记相关
 
