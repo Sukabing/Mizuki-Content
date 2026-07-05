@@ -37,6 +37,14 @@ export const friendsData: FriendItem[] = [
     siteurl: "https://github.com",
     tags: ["Development", "Platform"],
   },
+    {
+        id: 4,
+        title: "Alletis~1.EXE",
+        imgurl: "https://alletis.com/",
+        desc: "Alletis的个人站点",
+        siteurl: "https://alletis.com/",
+        tags: ["Development", "Platform", "Plugins"],
+    },
 ];
 
 // 获取所有友情链接数据

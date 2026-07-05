@@ -52,6 +52,11 @@ author: "Sukabing"
 - [渐变背景卡](https://colir.space/app/)
 - [抖动、ASCII 和半色调效果抽卡(核曲绘抽卡机)](https://app.ditther.com/)
 - [X上的日推设计](https://bestdesignsonx.com/)
+- [更好的代码块展示](https://ray.so/)
+- [手绘风格图标制作](https://excalidraw.com/)
+- [看网速](https://fast.com/zh/cn/)
+- [无限白板浏览器版](https://www.tldraw.com/)
+- [更vtb的日程表安排编辑器](https://uta.utairo.work/schedule-maker/)
 - 
 # 搜索引擎类
 
@@ -69,6 +74,8 @@ author: "Sukabing"
 - [Ableton Live主题站](https://livethemes.app/)
 - [C站](https://civitai.com/)
 - [C站（red）](https://civitai.red/)
+- [Alletis~1.EXE](https://alletis.com/)
+  > 该站点为Alletis的个人站点
 
 # 群友笔记相关
 
