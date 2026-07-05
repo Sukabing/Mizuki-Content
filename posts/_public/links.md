@@ -32,6 +32,9 @@ author: "Sukabing"
 - 轻松有趣的科技知识补全[玄离199](https://space.bilibili.com/67079745)
 - 我很喜欢里面的Reo系列，可以找灵感[小林ヒトリ](https://space.bilibili.com/1324948014)
 
+# 插件推荐
+- [开源免费劲劲立体声插件](https://gitee.com/table-luz/stargazer/releases)
+
 # 工具类
 
 - [LFO查看sync和freq的对等值]("https://bchillmix.com/pages/lfo-rate-calculator")
